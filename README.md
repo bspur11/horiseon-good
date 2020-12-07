@@ -3,7 +3,7 @@
 #
 ## Visual Studio Code was used to  edit the HTML, CSS and this Readme.md file.
 #
-## Git Bash and Git Hub were used to mave and host files repectively.
+## Git Bash and Git Hub were used to move and host files repectively.
 
 ## A screenshot of the sample project is at this link: 
  https://github.com/bspur11/horiseon-good/blob/master/Develop/assets/images/01-html-css-git-homework-demo.png
